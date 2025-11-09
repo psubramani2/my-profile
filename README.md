@@ -1,2 +1,2 @@
 # my-profile
-about my professioal experiences and technical stack details
+Experienced IT professional with 13 years in the industry, including over 6 years in leadership and managerial roles. Proven expertise in building scalable, high-performance web applications using Angular, HTML, SCSS, SASS, JavaScript, and TypeScript. Known for translating complex business needs into intuitive UI solutions and delivering quality products in fast-paced environments....
